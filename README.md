@@ -1,7 +1,7 @@
 # 🤖 Agent-Trading: Agente de IA para Paper Trading
 
 <p align="center">
-  <img src="assets/banner.png" alt="Agent-Trading Banner" width="100%">
+  <img src="assets/banner.png" alt="Agent-Trading Banner" width="60%">
 </p>
 
 
