@@ -1,0 +1,6 @@
+ccxt
+pandas
+pandas_ta
+google-genai
+python-dotenv
+requests

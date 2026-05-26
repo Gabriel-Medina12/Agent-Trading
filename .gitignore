@@ -1,0 +1,19 @@
+# Entorno y Configuración
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+
+# Archivos de Datos del Simulador (Paper Trading)
+portfolio.json
+
+# Caché y Temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de herramientas
+.qodo/
+.vscode/
+.idea/
