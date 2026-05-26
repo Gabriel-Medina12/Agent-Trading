@@ -1,5 +1,10 @@
 # 🤖 Agent-Trading: Agente de IA para Paper Trading
 
+<p align="center">
+  <img src="assets/banner.png" alt="Agent-Trading Banner" width="100%">
+</p>
+
+
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![AI Model](https://img.shields.io/badge/AI-Gemini%202.5%20Flash%20Lite-orange.svg)](https://deepmind.google/technologies/gemini/)
 [![Market Data](https://img.shields.io/badge/Data-CCXT%20%2F%20Binance-green.svg)](https://github.com/ccxt/ccxt)
